@@ -1,0 +1,1 @@
+# program-2-to-print-pattern-in-2-4-6-series
